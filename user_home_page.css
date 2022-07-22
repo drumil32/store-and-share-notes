@@ -1,0 +1,113 @@
+element.style {
+    width: 99%;
+    height: 11cm;    
+}
+
+body{
+    background-color: #75d6f8;
+}
+
+header{
+    border:2px red solid ;
+    overflow: auto;
+}
+
+#show_notes{
+    float:left;    
+}
+
+#account{
+    float:right;
+}
+
+.block {
+    border: black solid 3px;
+    width: 54%;
+    /* margin-left: 35%; */
+    margin-top: 14%;
+    background: #dfd393;
+    margin: auto;
+    margin-top: 4%;
+    padding-top: 2%;
+    box-sizing: border-box;    
+    border-radius: 8px;
+    height: 13cm;
+}
+
+input{
+    display: block;
+}
+
+#title{
+    font-size: 138%;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-left : 17%;
+    margin-left: 15%;
+    width: 67%;
+    display:inline-block;
+}
+
+.form{
+    border:10px solid green;
+}
+
+#desc{
+    font-size: 106px;
+    margin: auto;
+    margin-left: 4.5%;
+    margin-top: 2%;
+    width: 91%;
+    height: 9.5cm;
+    box-sizing: border-box;
+    resize : none;
+    padding-top: 13%;
+}
+
+.data {
+    width: 78%;
+    /* height: 18%; */
+    font-size: 113%;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btn {
+    width: 26%;
+    border: 1px solid red;
+    margin-left: 15.5%;
+    margin-top: 2%;
+    border-radius: 6px;
+    font-size: 16px;
+    border: 2px solid blue;
+    height: 7%;
+    display: inline-block;
+    
+}
+
+
+a{
+    /* margin-left: 32%; */
+   /* margin-top: 60%;  */
+    font-size: 129%;
+    text-decoration: none;
+    color: #e51515; 
+}
+
+.btn:hover{
+    font:bold;
+    color:white;
+    background-color:black;
+    
+    font-weight: bold;
+    cursor : pointer;
+}
+
+a:hover{
+    font:bold;
+    font-weight: bold;
+    
+}

@@ -1,0 +1,204 @@
+.body
+{
+    background: #ebedf0
+}
+.header
+{
+    /* border: blanchedalmond solid; */
+    height: 76px;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    position: absolute;
+    /* height: 186%; */
+    top: 0px;
+    left: 0px;
+    width: 35.98cm;
+}
+
+.Name {
+    font-size: 44px;
+    font-weight: bold;
+    /* border: springgreen solid; */
+    position: relative;
+    top: 13px;
+    color: white;
+    left: 5.7cm;
+}
+
+.login {
+    /* border: tomato solid; */
+    float: right;
+    position: relative;
+    right: 118px;
+    top: 24px;
+}
+
+.login:hover{
+    cursor: pointer;
+    color: rgb(92, 92, 92);
+}
+
+.containner {
+    /* border: red solid; */
+    position: relative;
+    top: 1.9cm;
+    width: 14cm;
+    height: 14.27cm;
+    left: 12cm;
+    color: #777 ;
+}
+
+
+.title
+{
+    /* border: teal solid; */
+    height: 107px;
+    color: black;
+}
+
+.heading {
+    /* border: yellowgreen solid; */
+    display: block;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.kick
+{
+    /* border: green solid; */
+    position: relative;
+    top: 13px;
+    left: 4px;
+    color: #777 ;
+    font-size: 20px;
+}
+
+.form
+{
+    /* border: brown solid; */
+    margin-top: 10px;
+}
+
+.condtion
+{
+     text-decoration: none;
+}
+
+.condtion:hover{
+    text-decoration: underline;
+}
+
+
+#fname {
+    width: 5cm;
+    height: 21px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-left: 46px;
+    margin-top: 10px;
+    margin-left: 48px;
+    padding: 5px;
+}
+
+#lname {
+    width: 5cm;
+    height: 21px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-left: 46px;
+    margin-top: 10px;
+    padding: 5px;
+
+}
+
+#contac {
+    width: 11.4cm;
+    height: 21px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-left: 46px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#captc{
+    text-align: center;
+    width: 11.4cm;
+    height: 21px;
+    font-size: 25px;
+    border-radius: 6px;
+    margin-left: 46px;
+    margin-top: 10px;
+    padding: 5px;
+    border:solid 1px red;
+}
+
+#pass {
+    width: 11.4cm;
+    height: 21px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-left: 46px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#dob
+{
+    display: block;
+    margin-left: 46px;
+    margin-bottom: 4px;
+}
+
+#DOB {
+    display: block;
+    margin-left: 46px;
+    width: 5cm;
+    margin: 3px 46px;
+}
+
+#sex
+{
+    display: block;
+    margin-left: 46px;
+    width: 5cm;
+    margin: 2px 46px;
+    margin-top: 8px;
+}
+
+#female
+{
+    margin-left: 47px;
+}
+
+.mygender
+{
+    margin-left: 4px;
+}
+
+.radio
+{
+    margin: 0px;
+}
+
+.note
+{
+    display: block;
+    margin-left: 47px;
+    margin-top: 15px;
+}
+
+#submit {
+    width: 3.5cm;
+    height: 1.3cm;
+    background-color: chartreuse;
+    color: white;
+    border-radius: 12px;
+    font-size: 27px;
+    font-weight: bold;
+    margin-left: 47px;
+    margin-top: 11px;
+}
